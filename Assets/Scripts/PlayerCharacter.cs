@@ -11,7 +11,7 @@ public class PlayerCharacter : MonoBehaviour
         [SerializeField]
         private string Name = "Mario";
     
-        [SeralizeField]
+        [SerializeField]
         private float JumpHieght = 5, Speed = 5;
 
         private bool HasKey;
