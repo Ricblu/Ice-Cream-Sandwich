@@ -11,6 +11,7 @@ public class PlayerCharacter : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        //This doesn;t matter. Delete when you can
 		
 	}
 }
